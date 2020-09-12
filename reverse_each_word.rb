@@ -11,4 +11,4 @@ end
 
 def reverse_each_word(sentence)
   x.sentence.split(" ")
-  y= x.map{|word|
+  y= x.map{|word| 
