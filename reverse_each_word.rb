@@ -10,7 +10,7 @@ end
 =end
 
 def reverse_each_word(sentence)
-  x.sentence.split(" ")
-  y= x.map{|word| word.reverse}
+  z= x.sentence.split(" ")
+  y= z.map{|word| word.reverse}
   y.join(" ")
 end
